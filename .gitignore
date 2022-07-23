@@ -1,0 +1,14 @@
+# ide
+.idea
+.iml
+
+# node
+node_modules
+package-lock.json
+
+# build
+build
+
+# misc
+*.DS_Store
+.env
